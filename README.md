@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Hello](https://i.giphy.com/media/fTI9mBoWLef8k/giphy.gif)
 <!--
 **roysonLobo/roysonLobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
